@@ -30,3 +30,8 @@ Despite established financial theories, empirical results in the Indonesian prop
 * **Key Determinants:** All variables are simultaneously significant in explaining the capital structure. However, in individual settings, only Profitability (NPM) and Non-Debt Tax Shield (NDTS) that exhibit significance, while Liquidity (CR) does not emerge a primary determinant.
 * **Firm Size:** Interestingly, size did not significantly moderate the relationships, suggesting consistent financing behavior across small and large firms in this sector.
 * **Model Accuracy:** The $R^2$ of 0.3392 indicates that while these factors are relevant, 66% of capital structure variance is driven by external market conditions or unobserved firm-specific factors.
+
+## 📂 Project Directory Structure
+* `/dataset`: Data source extracted from the Indonesia Stock Exchange (IDX) reports and the cleaned Excel file used for analysis.
+* `/notebook`: Jupyter Notebooks containing the Python code for data preprocessing, classical assumption tests, and panel data regression.
+* `/report`: Detailed documentation of the econometric results, including tables, figures, and the final research paper summary.
